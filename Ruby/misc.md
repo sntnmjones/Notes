@@ -12,3 +12,6 @@ Install gems
 gem install ruby-debug-ide && \
 gem install debase --pre
 ```
+
+Attach debugger in vscode
+https://rahul-arora.medium.com/debugging-ruby-on-rails-server-in-vs-code-819b45113e78
